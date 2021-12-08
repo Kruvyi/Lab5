@@ -1,0 +1,14 @@
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Політєх\4 курс\1 сем\Теорія прийняття рішень\ЛР 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
